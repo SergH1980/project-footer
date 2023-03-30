@@ -4,6 +4,9 @@
 @import './breakpoints';
 @import './visually-hidden';
 @import './global';
+@import './utils/mixin';
+@import './components/container';
+@import './utils/vars';
 
 // partials
 @import './home-header';
